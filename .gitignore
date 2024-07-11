@@ -6,3 +6,7 @@ submodules/*
 
 # Ignore the data folder and its contents
 data/
+scene/
+outputs/
+
+**/__pycache__/
