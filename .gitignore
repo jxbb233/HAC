@@ -1,0 +1,8 @@
+# Ignore everything in the submodules folder
+submodules/*
+
+# But don't ignore zip files in the submodules folder
+!submodules/*.zip
+
+# Ignore the data folder and its contents
+data/
